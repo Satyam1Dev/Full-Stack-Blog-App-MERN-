@@ -1,0 +1,41 @@
+
+*{
+    box-sizing: border-box;
+    border: none;
+}
+.form_container {
+    background-color: #343d2c;    
+    width: 100%;
+    padding: 40px;
+    padding-bottom: 80px;  
+    
+}
+
+label{
+    color: #b2b0b0;
+}
+input[type="text"] {
+    padding: 10px; 
+    width: 100%;
+  
+}
+input[type="password"]{
+    width: 100%;
+    padding: 10px; 
+}
+input[type="submit"] {   
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 8px; 
+    margin-top: 20px;
+    font-size: 20px;
+    cursor: pointer;
+   
+}
+
+
+h1{
+    color: #8e8d8d;    
+    margin-bottom: 30px;
+}
